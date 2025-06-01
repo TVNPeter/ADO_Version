@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EF_Version.Patient">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAICAAAAAAAQAQAAAAAACAAAAIQAAAAA=</HashCode>
+      <FileName>Class\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Doctor">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAIAAAAAAAAAAQAACAAAAAAAAIQAAAAA=</HashCode>
+      <FileName>Class\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Appointment">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAQAAAAAgAAAAAAAAAAgAAAQAAEAAAQAACAA=</HashCode>
+      <FileName>Class\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Prescription">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAABCBAAAAAAAAAAQAQAAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>Class\Prescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.PrescriptionDetail">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAIQAAAAAAAAAoQAACAA=</HashCode>
+      <FileName>Class\PrescriptionDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Medicine">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAAAAAAAAAAQAAIAAIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Class\Medicine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Account">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAEQAAAQgAAAAAAAQCAAAAAQAAAAA=</HashCode>
+      <FileName>Class\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Secretary">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAIQAAAAA=</HashCode>
+      <FileName>Class\Secretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.Admin">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EF_Version.PasswordHelper">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PasswordHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,88 @@
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\x86\SqlServerSpatial160.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\x64\SqlServerSpatial160.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EF Version.exe.config
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EF Version.exe
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EF Version.pdb
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EntityFramework.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EntityFramework.SqlServer.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EnvDTE.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\stdole.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EntityFramework.xml
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\EntityFramework.SqlServer.xml
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\ADO Version.csproj.AssemblyReference.cache
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF Version.exe.config
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Report.frmViewPreDetail.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.UI.Forms.frmLogin.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Forms.frmMain.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Forms.frmAddMedicines.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Forms.frmPrescription.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Usercontrol.uc_Appointment.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.UI.Usercontrol.uc_DashBoard.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Usercontrol.uc_Doctor.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Usercontrol.uc_Patient.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Properties.Resources.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.Presentation.Usercontrol.uc_Medicine.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF_Version.UI.Usercontrol.uc_Secretary.resources
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\ADO Version.csproj.GenerateResource.cache
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\ADO Version.csproj.CoreCompileInputs.cache
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\ADO Vers.EFEAAEF6.Up2Date
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF Version.exe
+E:\2024-2025-HKII\WIPR\Final Term Project\ADO Version\obj\Debug\EF Version.pdb
